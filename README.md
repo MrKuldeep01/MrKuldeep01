@@ -9,7 +9,7 @@ I've been learning to code for last semester. I started with HTML, CSS, JAVASCRI
 * 🌍  I'm based in Rohtak, haryana ( INDIA )
 * ✉️  You can contact me at [kkharoliya20@gmail.com](mailto:kkharoliya20@gmail.com)
 * 🚀  I'm currently working on [Cloth Stitching Shop's website](http://https://stitchingshop.netlify.app/)
-* 🧠  I'm learning node js
+* 🧠  I'm learning react js
 * ⚡  Always ready to learn from everyone & from everywhere
 
 <a href="https://www.github.com/MrKuldeep01" target="_blank" rel="noreferrer"><img
