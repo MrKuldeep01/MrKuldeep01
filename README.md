@@ -1,9 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kuldeep
-===============================================================================================================================
-
+----
+<!--  ![Profile Picture](https://avatars.githubusercontent.com/u/128669361?v=4)   Placeholder for profile picture -->
 **Web Developer | HTML | CSS | JavaScript | Learning: MERN Stack 👨‍💻🚀**
 ----------------
-  ![Profile Picture](https://avatars.githubusercontent.com/u/128669361?v=4)  <!-- Placeholder for profile picture -->
+
 ## About Me
 I'm a passionate web developer with a keen interest in creating dynamic and responsive web applications. I'm currently diving deep into the MERN stack and constantly looking to improve my skills and learn new technologies.
 
@@ -66,13 +66,14 @@ src="https://img.shields.io/github/followers/MrKuldeep01?logo=github&style=for-t
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="linux basic commands" />
   </a>
 </p>
-----## Projects
+----
+## Projects
 
 ### Mini Media
 Created with Node.js, Express.js, MongoDB, and server-side rendering with EJS.
 - **Features**: User login, logout, registration, post creation, post editing, post deletion, profile editing, and robust security measures.
 - **Live Link**: [mini-media](https://mini-media-twln.onrender.com/)
-- **GitHub Repository**: [mini-media](https://github.com/mrkuldeep01/mini app)
+- **GitHub Repository**: [mini-media](https://github.com/mrkuldeep01/miniapp)
 
 
 ### E-commerce
@@ -138,6 +139,7 @@ Created with HTML, CSS, and JavaScript.
   <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrKuldeep01&repo=stitching_shop&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
 </div>
+<br /><br /><br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br />
 <div width="100%" align="center">
   <a href="https://github.com/MrKuldeep01/CodeRunnerForHTML" align="left">
@@ -145,11 +147,12 @@ Created with HTML, CSS, and JavaScript.
   </a>
   <a href="https://github.com/MrKuldeep01/react_router_dom__learn" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrKuldeep01&repo=react_router_dom__learn&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
-</div>
+</div> <br /><br /><br /><br />
 
 -----
+
 ## Hobbies: `Drawing 🎨`
-...
+
 ## Fun Fact
 Tiny code, giant web. 🚀👨‍💻
 
