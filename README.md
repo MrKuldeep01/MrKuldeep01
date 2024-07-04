@@ -21,6 +21,12 @@ I’m currently learning React.js and Node.js and working on a "Mega Blog" proje
 <a href="https://www.github.com/MrKuldeep01" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MrKuldeep01?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+
+### Hobbies: `Drawing 🎨`
+
+### Fun Fact
+Tiny code, giant web. 🚀👨‍💻
+
 ### Skills
 
 ###### working on :-
@@ -146,8 +152,4 @@ Created with HTML, CSS, and JavaScript.
   </a>
 </div>
 
-## Hobbies: `Drawing 🎨`
-
-## Fun Fact
-Tiny code, giant web. 🚀👨‍💻
 
