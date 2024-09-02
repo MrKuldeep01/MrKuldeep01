@@ -9,14 +9,14 @@ I'm a passionate web developer with a keen interest in creating dynamic and resp
 
 * 🌍  I'm from Rohtak, haryana ( INDIA )
 ## Currently Learning
-I’m currently learning React.js and Node.js and working on a "Mega Blog" project with React.js.
-- **GitHub Repository**: [Mega Blog Repo](https://github.com/mrkuldeep01/megablog_react)
+I’m currently learning React.js and Node.js and working on a "Backend with HC" project with Node.js.
+- **GitHub Repository**: [Backend dev.](https://github.com/mrkuldeep01/backendDevWithHC)
 
 ### Always ready to learn from everyone & from everywhere ⚡
   ----
 ## Contact Information
 - **📫 How to reach me**: [kkharoliya20@gmail.com](mailto:kkharoliya20@gmail.com)
-- **📄 Know about my experiences**: [`Resume`](https://drive.google.com/file/d/1Oa95hhg1ATuDkwFgyhq4dNhfxL6WERGC/view?usp=sharing)
+- **📄 Know about my experiences**: [`Resume`](https://drive.google.com/file/d/160-lR4XOAoBkdR7b4Vx85sc6IZegVMJL/view?usp=drive_link)
 
 <a href="https://www.github.com/MrKuldeep01" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MrKuldeep01?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -75,6 +75,16 @@ Tiny code, giant web. 🚀👨‍💻
 
 
 ## Projects
+
+### Social - Media
+- **Our Mini Media** - Mr Kumar is designed to be an intuitive platform for users to create, edit, and manage their posts
+like social application.
+- **Features**: real-time text editing, user-specific post visibility, it ensures a personalized and efficient content management experience, User Authentication, Post Management, text-editor,
+image download, Responsive Design etc.
+- **Technologies Used**: React.js, Redux Toolkit, React Router DOM, React Hook Form, TailwindCSS, appwrite as
+backend, Vercel for Deployment.
+- **Live Link**: [mini-media](https://ourminimedia.vercel.app/)
+- **GitHub Repository**: [mini-media](https://github.com/MrKuldeep01/megaBlog_React)
 
 ### Mini Media
 Created with Node.js, Express.js, MongoDB, and server-side rendering with EJS.
