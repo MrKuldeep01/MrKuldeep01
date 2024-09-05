@@ -9,7 +9,7 @@ I'm a passionate web developer with a keen interest in creating dynamic and resp
 
 * 🌍  I'm from Rohtak, haryana ( INDIA )
 ## Currently Learning
-I’m currently learning React.js and Node.js and working on a "Backend with HC" project with Node.js.
+I’m currently learning **SQL** and working on a "Backend with HC" project with Node.js.
 - **GitHub Repository**: [Backend dev.](https://github.com/mrkuldeep01/backendDevWithHC)
 
 ### Always ready to learn from everyone & from everywhere ⚡
