@@ -16,7 +16,7 @@ I’m currently learning **SQL** and working on a "Backend with HC" project with
   ----
 ## Contact Information
 - **📫 How to reach me**: [kkharoliya20@gmail.com](mailto:kkharoliya20@gmail.com)
-- **📄 Know about my experiences**: [`Resume`](https://drive.google.com/file/d/160-lR4XOAoBkdR7b4Vx85sc6IZegVMJL/view?usp=drive_link)
+- **📄 Know about my experiences**: [`Resume`](https://drive.google.com/file/d/1k5uQ-wyTK2F7SkR9qkAC1eDTHK0WMwWp/view?usp=drive_link)
 
 <a href="https://www.github.com/MrKuldeep01" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MrKuldeep01?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
