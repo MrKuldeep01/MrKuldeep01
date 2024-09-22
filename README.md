@@ -56,7 +56,7 @@ Tiny code, giant web. 🚀👨‍💻
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="tailwind css" />
   </a>
     <a href="https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16" target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo.png" width="36" height="36" alt="sql server" />
+    <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="36" height="36" alt="sql server" />
   </a>
 </p>
 
