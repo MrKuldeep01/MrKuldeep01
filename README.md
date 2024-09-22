@@ -55,6 +55,9 @@ Tiny code, giant web. 🚀👨‍💻
   <a href="https://tailwindcss.com/docs/installation" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="tailwind css" />
   </a>
+    <a href="https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16" target="_blank" rel="noreferrer">
+    <img src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo.png" width="36" height="36" alt="sql server" />
+  </a>
 </p>
 
 ###### basic knowledge :-
