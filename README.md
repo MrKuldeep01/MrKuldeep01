@@ -149,17 +149,20 @@ Created with HTML, CSS, and JavaScript.
 <b>Top Repositories</b>
 
 <div width="100%" align="center">
+    <a href="https://github.com/MrKuldeep01/megaBlog_React" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrKuldeep01&repo=megaBlog_React&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  
   <a href="https://github.com/MrKuldeep01/miniapp" align="left">
   <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrKuldeep01&repo=miniapp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
-  <a href="https://github.com/MrKuldeep01/stitching_shop" align="left">
+  
+  <a href="https://github.com/MrKuldeep01/stitching_shop" align="right">
   <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrKuldeep01&repo=stitching_shop&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
-   <a href="https://github.com/MrKuldeep01/CodeRunnerForHTML" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrKuldeep01&repo=CodeRunnerForHTML&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+   <a href="https://github.com/MrKuldeep01/password_generator_via_react" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrKuldeep01&repo=password_generator_via_react&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
-  <a href="https://github.com/MrKuldeep01/react_router_dom__learn" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrKuldeep01&repo=react_router_dom__learn&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
+
 </div>
 
 
