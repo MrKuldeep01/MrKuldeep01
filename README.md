@@ -9,14 +9,14 @@ I'm a passionate web developer with a keen interest in creating dynamic and resp
 
 * 🌍  I'm from Rohtak, haryana ( INDIA )
 ## Currently Learning
-I’m currently learning **SQL** and working on a "Backend with HC" project with Node.js.
-- **GitHub Repository**: [Backend dev.](https://github.com/mrkuldeep01/backendDevWithHC)
+I’m currently learning **SQL**, **Python** and working on a "Mobile Shop Project" project with MERN stack.
+- **GitHub Repository**: [Mobile shop](https://github.com/mrkuldeep01/Mobile_shop)
 
 ### Always ready to learn from everyone & from everywhere ⚡
   ----
 ## Contact Information
 - **📫 How to reach me**: [kkharoliya20@gmail.com](mailto:kkharoliya20@gmail.com)
-- **📄 Know about my experiences**: [`Resume`](https://drive.google.com/file/d/1k5uQ-wyTK2F7SkR9qkAC1eDTHK0WMwWp/view?usp=drive_link)
+- **📄 Know about my experiences**: [`Resume`](https://drive.google.com/file/d/1EqpklsjEQx6hYihrkt31bdbRWtc-8Hqn/view?usp=drive_link)
 
 <a href="https://www.github.com/MrKuldeep01" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MrKuldeep01?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -83,21 +83,21 @@ like social application.
 image download, Responsive Design etc.
 - **Technologies Used**: React.js, Redux Toolkit, React Router DOM, React Hook Form, TailwindCSS, appwrite as
 backend, Vercel for Deployment.
-- **Live Link**: [mini-media](https://ourminimedia.vercel.app/)
-- **GitHub Repository**: [mini-media](https://github.com/MrKuldeep01/megaBlog_React)
+- [**Live Link**](https://ourminimedia.vercel.app/)
+- [**GitHub Repository**](https://github.com/MrKuldeep01/megaBlog_React)
 
 ### Mini Media
 Created with Node.js, Express.js, MongoDB, and server-side rendering with EJS.
 - **Features**: User login, logout, registration, post creation, post editing, post deletion, profile editing, and robust security measures.
-- **Live Link**: [mini-media](https://mini-media-twln.onrender.com/)
-- **GitHub Repository**: [mini-media](https://github.com/mrkuldeep01/miniapp)
+- [**Live Link**](https://mini-media-twln.onrender.com/)
+- [**GitHub Repository**](https://github.com/mrkuldeep01/miniapp)
 
 
 ### E-commerce
 Created with HTML, CSS, and JavaScript.
 - **Features**: User login, logout, registration, view available clothing designs, and connect with real-life tailors for custom stitching.
-- **Live Link**: [Stitching Shop](https://stitchingshop.netlify.app/)
-- **GitHub Repository**: [Stitching Shop Repo](https://github.com/mrkuldeep01/stitching_shop)
+- [**Live Link**](https://stitchingshop.netlify.app/)
+- [**GitHub Repository**](https://github.com/mrkuldeep01/stitching_shop)
 
 ## Achievements
 - Successfully sold 4 mini projects to clients with proper documentation, demonstrating strong project development skills and client relationship management.
