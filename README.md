@@ -16,7 +16,7 @@ I’m currently learning **SQL**, **Python** and working on a "Mobile Shop Proje
   ----
 ## Contact Information
 - **📫 How to reach me**: [kkharoliya20@gmail.com](mailto:kkharoliya20@gmail.com)
-- **📄 Know about my experiences**: [`Resume`](https://drive.google.com/file/d/1EqpklsjEQx6hYihrkt31bdbRWtc-8Hqn/view?usp=drive_link)
+- **📄 Know about my experiences**: [`Resume`](https://drive.google.com/file/d/1-QagcjSa2i85AGOw14UBz81L97PlaoVe/view?usp=sharing)
 
 <a href="https://www.github.com/MrKuldeep01" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MrKuldeep01?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -25,7 +25,7 @@ src="https://img.shields.io/github/followers/MrKuldeep01?logo=github&style=for-t
 ### Hobbies: `Drawing 🎨`
 
 ### Fun Fact
-Tiny code, giant web. 🚀👨‍💻
+Every problem has a solution. 🚀👨‍💻
 
 ### Skills
 
