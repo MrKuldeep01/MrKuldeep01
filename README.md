@@ -143,7 +143,7 @@ Created with HTML, CSS, and JavaScript.
 <a href="http://www.github.com/MrKuldeep01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MrKuldeep01&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <!--<a href="http://www.github.com/MrKuldeep01"><img src="" alt="GitHub Commits Graph" /></a> -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mrkuldeep01&bg_color=0d1117&color=ffe7b3&line=80ff95&point=00ff2a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mrkuldeep01&bg_color=0d1117&color=ffe7b3&line=80ff95&point=00ff2a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)   -->
 <!--[generator](https://ashutosh00710.github.io/github-readme-activity-graph/) -->
 
 
