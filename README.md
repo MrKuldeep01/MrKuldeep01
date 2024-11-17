@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kuldeep
 ----
 <!--  ![Profile Picture](https://avatars.githubusercontent.com/u/128669361?v=4)   Placeholder for profile picture -->
-**Web Developer | HTML | CSS | JavaScript | Learning: MERN Stack 👨‍💻🚀**
+**Fresher Web Developer | MERN Stack | JavaScript | Python | SQL | Looking for opportunities 👨‍💻🚀**
 ----------------
 
 ## About Me
-I'm a passionate web developer with a keen interest in creating dynamic and responsive web applications. I'm currently diving deep into the MERN stack and constantly looking to improve my skills and learn new technologies.
+A dedicated web developer skilled in full-stack development using the MERN stack (MongoDB, Express.js, React.js, Node.js), SQL, Python. I have hands-on experience building scalable web applications, including an e-commerce platform, social media simulation web application etc. Eager to learn and contribute, I bring a solid understanding of both frontend and backend technologies and a passion for delivering efficient, user-friendly solutions.
 
 * 🌍  I'm from Rohtak, haryana ( INDIA )
 ## Currently Learning
@@ -16,13 +16,13 @@ I’m currently learning **SQL**, **Python** and working on a "Mobile Shop Proje
   ----
 ## Contact Information
 - **📫 How to reach me**: [kkharoliya20@gmail.com](mailto:kkharoliya20@gmail.com)
-- **📄 Know about my experiences**: [`Resume`](https://drive.google.com/file/d/1-QagcjSa2i85AGOw14UBz81L97PlaoVe/view?usp=sharing)
+- **📄 Know about my experiences**: [`Resume`](https://drive.google.com/file/d/1cntUULnMER5wH-5QqwuTl9PV3C-XjDD_/view?usp=sharing)
 
 <a href="https://www.github.com/MrKuldeep01" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MrKuldeep01?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 
-### Hobbies: `Drawing 🎨`
+### Hobby: `Drawing 🎨`
 
 ### Fun Fact
 Every problem has a solution. 🚀👨‍💻
