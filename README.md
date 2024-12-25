@@ -16,7 +16,7 @@ I’m currently learning **SQL**, **Python** and working on a "Mobile Shop Proje
   ----
 ## Contact Information
 - **📫 How to reach me**: [kkharoliya20@gmail.com](mailto:kkharoliya20@gmail.com)
-- **📄 Know about my experiences**: [`Resume`](https://drive.google.com/file/d/1cntUULnMER5wH-5QqwuTl9PV3C-XjDD_/view?usp=sharing)
+- **📄 Know about my experiences**: [`Resume`](https://drive.google.com/file/d/1j9Q-xlXArWn89Vp7nMM2kLyqQFd0yYyA/view?usp=drive_link)
 
 <a href="https://www.github.com/MrKuldeep01" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MrKuldeep01?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
