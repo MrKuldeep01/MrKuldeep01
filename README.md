@@ -1,5 +1,5 @@
 # 👋 Hey there, I’m Kuldeep!  
-*The Dev Intern — Sometimes breaks it, sometimes fixes it 🚀*
+- <sub>The Dev Intern — Sometimes breaks it, sometimes fixes it 🚀</sub>
 ---
 
 ## 👨‍💻 About Me  
